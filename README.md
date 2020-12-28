@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 I'm Denis
+
+I'm a software engineer
+
+<img align="left" width="150" height="150" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609160481356.png">
 
 <!--
 **devtty/devtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
