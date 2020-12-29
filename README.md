@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Denis
 
-<img src="https://raw.githubusercontent.com/devtty/devtty/main/scr2.png">
+<img src="https://raw.githubusercontent.com/devtty/devtty/main/scr3.png">
 
 I'm a software engineer
 <!--
