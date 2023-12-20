@@ -2,7 +2,7 @@
 
 I'm a software engineer
 
-- 👨‍🎓 Dipl.Inf(FH) FHTW Berlin
+- 👨‍🎓 Dipl.-Inf.(FH) FHTW Berlin
 - 👨‍🎓 M.Sc. BHT Berlin
 - 💬 Ask me about LOOM™
 - 🔭 Web Application Firewalls / JakartaEE
